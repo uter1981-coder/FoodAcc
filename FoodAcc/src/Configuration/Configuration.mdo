@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3f5de78d-b012-47e3-889b-bb740bed2aa2">
+  <name>FoodAcc</name>
+  <synonym>
+    <key>ru</key>
+    <value>Food acc</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="79c0a193-0584-45bb-87dc-ac6fd542838b"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="8c371614-2ccf-48a2-a6c9-dce0e6b20e01"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="d6929e2b-e0e8-40f8-a905-de91015f69e7"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="54d3a309-0074-4877-bd59-66ec16fdb27b"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="6814e387-b0d4-4ce7-9f71-793302c09ab3"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="b2f12bf4-ac12-4ecf-ac0c-5f13a41e742f"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="a2c43799-bb80-4b65-914a-97a85e341ffb"/>
+  <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.27</compatibilityMode>
+  <languages uuid="2b3e0668-228e-4964-8628-66870f3327b9">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Администрирование</subsystems>
+  <subsystems>Subsystem.УчетПитания</subsystems>
+  <catalogs>Catalog.ФизическиеЛица</catalogs>
+</mdclass:Configuration>
