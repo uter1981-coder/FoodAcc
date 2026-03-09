@@ -10,5 +10,5 @@
   <picture xsi:type="core:PictureRef">
     <picture>StdPicture.Today</picture>
   </picture>
-  <content>Catalog.ФизическиеЛица</content>
+  <content>Catalog.Пользователи</content>
 </mdclass:Subsystem>

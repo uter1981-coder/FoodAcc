@@ -41,5 +41,9 @@
   </languages>
   <subsystems>Subsystem.Администрирование</subsystems>
   <subsystems>Subsystem.УчетПитания</subsystems>
+  <sessionParameters>SessionParameter.ТекущийПользователь</sessionParameters>
+  <roles>Role.ПолныеПрава</roles>
+  <roles>Role.Пользователь</roles>
+  <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.ФизическиеЛица</catalogs>
 </mdclass:Configuration>

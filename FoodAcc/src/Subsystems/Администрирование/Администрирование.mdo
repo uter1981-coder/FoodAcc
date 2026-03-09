@@ -10,5 +10,9 @@
   <picture xsi:type="core:PictureRef">
     <picture>StdPicture.Setting</picture>
   </picture>
+  <content>Catalog.Пользователи</content>
   <content>Catalog.ФизическиеЛица</content>
+  <content>SessionParameter.ТекущийПользователь</content>
+  <content>Role.ПолныеПрава</content>
+  <content>Role.Пользователь</content>
 </mdclass:Subsystem>
